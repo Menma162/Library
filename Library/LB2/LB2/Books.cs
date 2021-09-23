@@ -8,6 +8,7 @@ namespace LB2
 {
     class Books
     {
+
         public string name { get; set; }
         public string author { get; set; }
         public int pages { get; set; }
@@ -23,5 +24,6 @@ namespace LB2
             author = Author;
             pages = Pages;
         }
+
     }
 }
