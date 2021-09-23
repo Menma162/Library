@@ -13,11 +13,12 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Students\\ПИн-119\\Тюрина Полина\\КРПП\\Library-main\\Library\\LB2\\LB2\\LB2.csproj",
+
+      "projectUniqueName": "C:\\Users\\student\\Desktop\\пин-119\\КР ПП\\ЛБ2\\Library-main\\Library\\LB2\\LB2\\LB2.csproj",
       "projectName": "LB2",
-      "projectPath": "C:\\Students\\ПИн-119\\Тюрина Полина\\КРПП\\Library-main\\Library\\LB2\\LB2\\LB2.csproj",
+      "projectPath": "C:\\Users\\student\\Desktop\\пин-119\\КР ПП\\ЛБ2\\Library-main\\Library\\LB2\\LB2\\LB2.csproj",
       "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-      "outputPath": "C:\\Students\\ПИн-119\\Тюрина Полина\\КРПП\\Library-main\\Library\\LB2\\LB2\\obj\\",
+      "outputPath": "C:\\Users\\student\\Desktop\\пин-119\\КР ПП\\ЛБ2\\Library-main\\Library\\LB2\\LB2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
