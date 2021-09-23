@@ -8,5 +8,6 @@ namespace LB2
 {
     class Books
     {
+        public string name;
     }
 }
