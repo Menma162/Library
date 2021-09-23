@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace LB2
 {
-    //Сотрудник
     class Workers
     {
         public string Name { get; set; }
@@ -30,6 +29,5 @@ namespace LB2
         {
             Add(Name, Birthday, Post);
         }
-
     }
 }
